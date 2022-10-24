@@ -27,7 +27,6 @@ class MainMenuState extends MusicBeatState
 		#if FUTURE_POLYMOD
 		'mods',
 		#end
-		'credits',
 		'options'
 	];
 	private var menuItems:FlxTypedGroup<FlxSprite>;
